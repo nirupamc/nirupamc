@@ -27,6 +27,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirupamc&show_icons=true&locale=en&layout=compact" alt="nirupamc" /></p>
 <p align="center"> <img align="left" src="https://res.cloudinary.com/dwkyc7esz/image/upload/v1634047062/Bull_2016_Season_6_Episode_2__Release_Date_Where_To_Watch_Preview_juaogy.gif" alt="gif" /> <img align="right" src="https://res.cloudinary.com/dwkyc7esz/image/upload/v1634048950/anime-gojo_usmflp.gif" >
-<img align="left" src="https://res.cloudinary.com/dwkyc7esz/image/upload/v1634049178/haikyuu-spike_a8ebzy.gif" >
-<img align="right" src=https://res.cloudinary.com/dwkyc7esz/image/upload/v1634049540/leviackerman-attackontitan_nluvt1.gif" >
+<img align="left" src="https://res.cloudinary.com/dwkyc7esz/image/upload/v1634049178/haikyuu-spike_a8ebzy.gif" > <img align="right" src=https://res.cloudinary.com/dwkyc7esz/image/upload/v1634049540/leviackerman-attackontitan_nluvt1.gif" >
 </p>
