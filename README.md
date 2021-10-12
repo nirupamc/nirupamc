@@ -4,6 +4,7 @@
 <h3 align="center">An ardent frontend developer and a cultured weeb from India</h3>
 
 <p align="left"> <img src="https://res.cloudinary.com/dwkyc7esz/image/upload/v1634047062/Bull_2016_Season_6_Episode_2__Release_Date_Where_To_Watch_Preview_juaogy.gif" alt="gif" /> </p>
+<img align="right" alt="Coding"  src="https://res.cloudinary.com/dwkyc7esz/image/upload/v1634048329/img_qswwgo.webp">
 
 
 - 🌱 I’m currently learning **kotlin**
