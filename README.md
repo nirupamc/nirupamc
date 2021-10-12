@@ -27,4 +27,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirupamc&show_icons=true&locale=en&layout=compact" alt="nirupamc" /></p>
 <p align="center"> <img align="center" src="https://res.cloudinary.com/dwkyc7esz/image/upload/v1634047062/Bull_2016_Season_6_Episode_2__Release_Date_Where_To_Watch_Preview_juaogy.gif" alt="gif" /> </p>
-<p align="center> <iframe width="560" height="315" src="https://www.youtube.com/embed/EqFkVHjiJFk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p align="center><img align="center" src="https://tenor.com/view/anime-gojo-gojo-youre-weak-gif-22186774" ></p>
