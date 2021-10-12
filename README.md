@@ -1,4 +1,4 @@
-<p align ="center"><img src="https://res.cloudinary.com/dwkyc7esz/image/upload/v1634047062/Bull_2016_Season_6_Episode_2__Release_Date_Where_To_Watch_Preview_juaogy.gif"></p>
+<p align ="center"><img src="https://res.cloudinary.com/dwkyc7esz/image/upload/v1634047239/wallpaperflare.com_wallpaper_2_rqapsw.jpg"></p>
 
 <h1 align="center">Greetings, I'm Nirupam Changmai</h1>
 <h3 align="center">An ardent frontend developer from India</h3>
