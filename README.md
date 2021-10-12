@@ -1,4 +1,4 @@
-<p align ="center"><img src="https://res.cloudinary.com/dwkyc7esz/video/upload/v1634046725/EssentialPowerfulBlobfish_mg36tx.mp4"></p>
+<p align ="center"><img src="https://res.cloudinary.com/dwkyc7esz/image/upload/v1634046966/tumblr_ea9bd2cc1d80682799ebec97a354b88c_5c909916_500_qw7fok.gif"></p>
 
 <h1 align="center">greetings, I'm Nirupam Changmai</h1>
 <h3 align="center">An ardent frontend developer from India</h3>
